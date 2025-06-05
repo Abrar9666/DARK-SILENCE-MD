@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~fR5xgAiZ#paI4KOT6K6vb4_7xd3KHeGnZlp0Hu3eCnON6CxfrHvo",
     CAPTION: process.env.CAPTION || "POWERED BY ABRAR HASHMI ",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -40,7 +40,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250505-WA0055.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://private-user-images.githubusercontent.com/214977784/451810776-c7b1e263-f808-46bd-abb2-4dd987e1c6d3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkxMTY0NjAsIm5iZiI6MTc0OTExNjE2MCwicGF0aCI6Ii8yMTQ5Nzc3ODQvNDUxODEwNzc2LWM3YjFlMjYzLWY4MDgtNDZiZC1hYmIyLTRkZDk4N2UxYzZkMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwNVQwOTM2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNTdhN2IzMTg5OTNmY2Y0MGJkZmFmNzdjOTRmYTdlMjY2NmU3OTdhNWY1Y2QyMDExNThjNTI3YjBmOGQ0M2QxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Stv5BoXSVx2yFfPb5p4-9jH82QOUxkHruifd8MRsHEU",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M ABRAR HASHMI 😈 🔥 WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_CALL: process.env.ANTI_CALL || "true",
